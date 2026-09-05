@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Creative Engine DB",
+            "database": "${workspaceFolder:creator-engine}/data/creator_engine.db"
+        }
+    ]
+}
